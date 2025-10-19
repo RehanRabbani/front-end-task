@@ -30,3 +30,5 @@ grid using some kind of form, and update records individually, as well as delete
 in a 'card' like UI component (showing the most recent lookup). The 'card' should contain all pieces of stored
 information about the student. The most recent lookup should persist between page changes between the 'grid' view and
 the 'lookup' view. This should be achieved using React Redux Hooks.
+# front-end-task
+# front-end-task
